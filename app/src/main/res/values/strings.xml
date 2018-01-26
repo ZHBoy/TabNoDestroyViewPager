@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabNoDestroyViewPager</string>
+    <string name="tv_first">首页</string>
+    <string name="tv_discover">发现</string>
+    <string name="tv_mine">我的</string>
+</resources>
